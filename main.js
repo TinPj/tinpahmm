@@ -1,0 +1,1 @@
+confirm('Xác nhận bạn đã đủ tuổi')
